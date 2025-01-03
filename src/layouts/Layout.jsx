@@ -24,7 +24,6 @@ function Layout({ children }) {
 
   useEffect(
     function () {
-      console.log(theme);
       document.documentElement.setAttribute("data-theme", theme);
       localStorage.setItem("theme", theme);
     },
