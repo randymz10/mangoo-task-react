@@ -84,7 +84,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Demo
 
-[](https://randymz10.github.io/mangoo-task-react)
+[Mangoo Task](https://mangoo-task-react.vercel.app/)
 
 Happy task managing with Mangoo Task! 🍋
 
