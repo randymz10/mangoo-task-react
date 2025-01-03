@@ -37,7 +37,7 @@ function ListItems({ todos, handleChecked, handleDelete }) {
       ))}
       {todos.length === 0 && (
         <div className="panel-block">
-          <em>No todos yet</em>
+          <em>No tasks yet</em>
         </div>
       )}
     </div>
